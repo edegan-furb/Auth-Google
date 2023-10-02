@@ -12,9 +12,6 @@
   <a href="https://github.com/edegan-furb/Auth-Google/stargazers">
     <img src="https://img.shields.io/github/stars/edegan-furb/Auth-Google" alt="stars" />
   </a>
-  <a href="https://github.com/edegan-furb/Auth-Google/issues/">
-    <img src="https://img.shields.io/github/issues/edegan-furb/Auth-Google" alt="open issues" />
-  </a>
 </p>
 
 # AUTH-GOOGLE
