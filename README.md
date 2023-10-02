@@ -15,9 +15,6 @@
   <a href="https://github.com/edegan-furb/Auth-Google/issues/">
     <img src="https://img.shields.io/github/issues/edegan-furb/Auth-Google" alt="open issues" />
   </a>
-  <a href="https://github.com/edegan-furb/Auth-Google/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/edegan-furb/Auth-Google.svg" alt="license" />
-  </a>
 </p>
 
 # AUTH-GOOGLE
