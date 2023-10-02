@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/contributors/edegan-furb/Auth-Google" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/edegan/Auth-Google" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/edegan-furb/Auth-Google" alt="last update" />
   </a>
   <a href="https://github.com/edegan-furb/Auth-Google/network/members">
     <img src="https://img.shields.io/github/forks/edegan-furb/Auth-Google" alt="forks" />
