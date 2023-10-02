@@ -1,4 +1,4 @@
-<!-- Badges -->
+# AUTH-GOOGLE
 <p>
   <a href="https://github.com/edegan-furb/Auth-Google/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/edegan-furb/Auth-Google" alt="contributors" />
@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/github/stars/edegan-furb/Auth-Google" alt="stars" />
   </a>
 </p>
-
-# AUTH-GOOGLE
 
 - Google User Authentication with Firebae
   
