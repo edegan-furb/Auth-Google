@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
   <a href="https://github.com/edegan-furb/Auth-Google/network/members">
-    <img src="https://img.shields.io/github/forks/edegan-furb/Auth-Google/" alt="forks" />
+    <img src="https://img.shields.io/github/forks/edegan-furb/Auth-Google" alt="forks" />
   </a>
   <a href="https://github.com/edegan-furb/Auth-Google/stargazers">
     <img src="https://img.shields.io/github/stars/edegan-furb/Auth-Google" alt="stars" />
