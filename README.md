@@ -1,3 +1,5 @@
+
+<div align="center>
 # AUTH-GOOGLE
 <p>
   <a href="https://github.com/edegan-furb/Auth-Google/graphs/contributors">
@@ -13,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/edegan-furb/Auth-Google" alt="stars" />
   </a>
 </p>
-
+<div/>
 - Google User Authentication with Firebae
   
 ---
