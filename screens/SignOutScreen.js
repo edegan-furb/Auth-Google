@@ -64,6 +64,15 @@ export default function SignOutScreen() {
             >
               {userData.displayName}
             </Text>
+            <Text
+              style={{
+                fontSize: 16,
+                color: "#ffffff",
+                marginTop: 10,
+              }}
+            >
+              {userData.email}
+            </Text>
           </View>
         </>
       )}
