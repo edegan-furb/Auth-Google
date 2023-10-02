@@ -42,7 +42,7 @@ export default function SignInScreen({ promptAsync }) {
           flexDirection: "row",
           alignItems: "center",
           justifyContent: "center",
-          backgroundColor: "#4259f4",
+          backgroundColor: "#4285F4",
           width: "90%",
           padding: 10,
           borderRadius: 15,

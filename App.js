@@ -8,6 +8,7 @@ import {
 } from "firebase/auth";
 import { auth } from "./firebaseConfig";
 import SignInScreen from "./screens/SignInScreen";
+import SignOutScreen from "./screens/SignOutScreen";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { ActivityIndicator, View } from "react-native";
 
@@ -18,7 +19,8 @@ export default function App() {
   const [loading, setLoading] = React.useState(false);
   const [request, response, promptAsync] = Google.useIdTokenAuthRequest({
     androidClientId: "",
-    webClientId: ""
+    webClientId:
+      "",
   });
 
   const getLocalUser = async () => {
@@ -50,6 +52,7 @@ export default function App() {
         console.log(JSON.stringify(user, null, 2));
         setUserInfo(user);
       } else {
+        setUserInfo(null);
         console.log("user not authenticated");
       }
     });
@@ -62,5 +65,9 @@ export default function App() {
         <ActivityIndicator size={"large"} />
       </View>
     );
-  return <SignInScreen promptAsync={promptAsync} />;
+  return userInfo ? (
+    <SignOutScreen />
+  ) : (
+    <SignInScreen promptAsync={promptAsync} />
+  );
 }
